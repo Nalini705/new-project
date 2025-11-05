@@ -1,0 +1,10 @@
+print("what is your name :")
+name=input()
+print("fathers name:")
+fathers name=input()
+print("mothers name:")
+mothers name=input()
+print("your age:")
+your age=int(input())
+print(name,\n fathers name,\n mothers name,\n your age)
+

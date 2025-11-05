@@ -1,0 +1,11 @@
+name=input("name:")
+age=int(input("age:"))
+address=input("address:")
+father_name=input("father name:")
+mother_name=input("mother name:")
+print("my name is:",name)
+print("my age is:",age)
+print("my address:",address)
+print("father name:",father_name)
+print("mother name:",mother_name)
+        

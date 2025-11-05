@@ -1,0 +1,8 @@
+Name=input("Name:")
+Register_Number=int(input("Register_Number:"))
+score=int(input("score:"))
+department=input("department:")
+print("my Name is:",Name)
+print("my Register_Number:",Register_Number)
+print("score:",score/10,"/10")
+print("my department:",department)
